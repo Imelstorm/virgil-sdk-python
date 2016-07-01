@@ -1,0 +1,5 @@
+virgil_access_token = 'eyJpZCI6IjkzMDcyYjQwLTAyYjYtNDg3ZC05OTI0LWY2MDM4MDc3Y2FjZiIsImFwcGxpY2F0aW9uX2NhcmRfaWQiOiJkZGUxNjBkNS0zMzA5LTQ4NWYtYTZhMS02NTBkODZkZjZiMmEiLCJ0dGwiOi0xLCJjdGwiOi0xLCJwcm9sb25nIjowfQ==.MFcwDQYJYIZIAWUDBAICBQAERjBEAiAh+m08zslAneOczxVJwLvX1lB17rI/9jcu6V4N9og7RAIgEx75wVx0NSjP8CcMQbXatsU17wElRvvvf3QRtcsA7U4='
+virgil_identity_service_url = 'https://identity.virgilsecurity.com/v1'
+virgil_keys_service_url = 'https://keys.virgilsecurity.com/v3'
+virgil_private_keys_service_url = 'https://keyring.virgilsecurity.com/v3'
+user_key_password = "MY_PASSWORD"
